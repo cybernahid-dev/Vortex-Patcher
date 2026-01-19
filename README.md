@@ -1,6 +1,7 @@
 # 🌀 Vortex Patcher: The Next Evolution
 
-[![Build](https://img.shields.io/github/actions/workflow/status/cybernahid-dev/VortexPatcher/main.yml?branch=master&logo=github&style=for-the-badge&label=Core_Engine&color=blue)](https://github.com/cybernahid-dev/VortexPatcher/actions)
+[![Build](https://img.shields.io/github/actions/workflow/status/LSPosed/LSPatch/main.yml?branch=master&logo=github&label=Build&event=push)](https://github.com/LSPosed/LSPatch/actions/workflows/main.yml?query=event%3Apush+is%3Acompleted+branch%3Amaster) [![Crowdin](https://img.shields.io/badge/Localization-Crowdin-blueviolet?logo=Crowdin)]
+
 [![Android](https://img.shields.io/badge/Supports-Android_15-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/cybernahid-dev/VortexPatcher)
 [![Shizuku](https://img.shields.io/badge/Powered_by-Shizuku_13-6200EE?style=for-the-badge&logo=android&logoColor=white)](https://github.com/cybernahid-dev/VortexPatcher)
 

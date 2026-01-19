@@ -47,12 +47,12 @@ Vortex Patcher is designed for research and customization. While it provides enh
 
 ## 🧬 Credits & Heritage
 
-cybernahid-dev: Current development and re-branding.
+**cybernahid-dev: Current development and re-branding.**
 
-LSPosed Team: The original core framework.
+**LSPosed Team: The original core framework.**
 
-Xpatch: The original fork source.
+**Xpatch: The original fork source.**
 
-Shizuku: The backbone for rootless permissions.
+**Shizuku: The backbone for rootless permissions.**
 
 ## Vortex Patcher is licensed under the GNU General Public License v3 (GPL-3).

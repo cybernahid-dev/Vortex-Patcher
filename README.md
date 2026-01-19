@@ -1,42 +1,58 @@
-# LSPatch Framework
+# 🌀 Vortex Patcher: The Next Evolution
 
-[![Build](https://img.shields.io/github/actions/workflow/status/LSPosed/LSPatch/main.yml?branch=master&logo=github&label=Build&event=push)](https://github.com/LSPosed/LSPatch/actions/workflows/main.yml?query=event%3Apush+is%3Acompleted+branch%3Amaster) [![Crowdin](https://img.shields.io/badge/Localization-Crowdin-blueviolet?logo=Crowdin)](https://lsposed.crowdin.com/lspatch) [![Download](https://img.shields.io/github/v/release/LSPosed/LSPatch?color=orange&logoColor=orange&label=Download&logo=DocuSign)](https://github.com/LSPosed/LSPatch/releases/latest) [![Total](https://shields.io/github/downloads/LSPosed/LSPatch/total?logo=Bookmeter&label=Counts&logoColor=yellow&color=yellow)](https://github.com/LSPosed/LSPatch/releases)
+[![Build](https://img.shields.io/github/actions/workflow/status/cybernahid-dev/VortexPatcher/main.yml?branch=master&logo=github&style=for-the-badge&label=Core_Engine&color=blue)](https://github.com/cybernahid-dev/VortexPatcher/actions)
+[![Android](https://img.shields.io/badge/Supports-Android_15-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/cybernahid-dev/VortexPatcher)
+[![Shizuku](https://img.shields.io/badge/Powered_by-Shizuku_13-6200EE?style=for-the-badge&logo=android&logoColor=white)](https://github.com/cybernahid-dev/VortexPatcher)
 
-## Introduction 
+> "Breaking the 2-year silence. Re-engineered for the future of non-root Android modification."
 
-Rootless implementation of LSPosed framework, integrating Xposed API by inserting dex and so into the target APK.
+## 🌌 Introduction 
 
-## Supported Versions
+**Vortex Patcher** (an advanced fork of LSPatch) is a high-performance, rootless Xposed framework. It bridges the gap between system-level control and user-level security by precision-injecting DEX and native libraries directly into target APKs using the **Shizuku API 13** pipeline.
 
-- Min: Android 9
-- Max: In theory, same with [LSPosed](https://github.com/LSPosed/LSPosed#supported-versions)
+## 🚀 Key Features (Next-Gen)
 
-## Download
+* **Android 15 Core**: Fully optimized for API 35 (Android 15) architecture.
+* **Shizuku 13 Integration**: Utilizes the latest Shizuku service available for lightning-fast shell permissions.
+* **Malware Shield**: Integrated proactive defense mechanisms against mobile threats like the **Vo1d Trojan**.
+* **Modern UI**: Rebranded and refined interface for a seamless user experience.
+* **Rootless Freedom**: No bootloader unlocking required. No warranty voided.
 
-For stable releases, please go to [Github Releases page](https://github.com/LSPosed/LSPatch/releases)  
-For canary build, please check [Github Actions](https://github.com/LSPosed/LSPatch/actions)  
-Note: debug builds are only available in Github Actions  
+## 🛠 Supported Specifications
 
-## Usage
+| Feature | Support Range |
+| :--- | :--- |
+| **Min Android** | Android 9 (Pie) |
+| **Max Android** | Android 15 (API 35) |
+| **Arch** | arm64-v8a |
+| **Engine** | Shizuku-powered Shell |
 
-+ Through jar
-1. Download `lspatch.jar`
-1. Run `java -jar lspatch.jar`
+## 📦 Deployment
 
-+ Through manager
-1. Download and install `manager.apk` on an Android device
-1. Follow the instructions of the manager app
+### 📱 Through Vortex Manager (Recommended)
+1.  Download the latest `Vortex-Manager.apk` from the [Releases](https://github.com/cybernahid-dev/VortexPatcher/releases) page.
+2.  Enable **Wireless Debugging** and start **Shizuku**.
+3.  Authorize Vortex Patcher within the Shizuku app.
+4.  Open Vortex Patcher and follow the tactical on-screen instructions.
 
-## Translation Contributing
+### 💻 Through Vortex CLI (JAR)
 
-You can contribute translation [here](https://lsposed.crowdin.com/lspatch).
+java -jar vortex-patcher.jar
 
-## Credits
 
-- [LSPosed](https://github.com/LSPosed/LSPosed): Core framework
-- [Xpatch](https://github.com/WindySha/Xpatch): Fork source
-- [Apkzlib](https://android.googlesource.com/platform/tools/apkzlib): Repacking tool
 
-## License
+## 🛡 Security & Ethics
 
-LSPatch is licensed under the **GNU General Public License v3 (GPL-3)** (http://www.gnu.org/copyleft/gpl.html).
+Vortex Patcher is designed for research and customization. While it provides enhanced security against trojans (e.g., Android.Vo1d.63), users should always verify the sources of their modules.
+
+## 🧬 Credits & Heritage
+
+cybernahid-dev: Current development and re-branding.
+
+LSPosed Team: The original core framework.
+
+Xpatch: The original fork source.
+
+Shizuku: The backbone for rootless permissions.
+
+## Vortex Patcher is licensed under the GNU General Public License v3 (GPL-3).
